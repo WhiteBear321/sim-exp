@@ -1,0 +1,8 @@
+numpy==1.26.4
+torch==2.9.0
+scipy==1.16.3
+python-osc==1.9.3
+airsim==1.8.1
+msgpack-rpc-python==0.4.1
+msgpack-python==0.5.6
+tornado==4.5.3
